@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Galaxy Wars NEW reworked:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Galaxy_Wars_NEW_reworked_jar</output-path>
+    <root id="archive" name="Galaxy Wars NEW reworked.jar">
+      <element id="module-output" name="Galaxy Wars NEW reworked" />
+    </root>
+  </artifact>
+</component>

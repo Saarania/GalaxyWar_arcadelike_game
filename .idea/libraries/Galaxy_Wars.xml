@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Galaxy Wars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Galaxy Wars.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
